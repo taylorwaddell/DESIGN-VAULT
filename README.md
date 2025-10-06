@@ -6,6 +6,7 @@
 
 ## How to Use This Roadmap
 
+- This was built as an [Obsidian](http://obsidian.md) Vault, designed to take advantage of [Obsidian's back linking system](https://help.obsidian.md/plugins/backlinks). Without the use of Obsidian, your experience using this Roadmap will be subpar.
 - Move **phase by phase**, only progressing when concepts feel solid.
 - Each phase includes: **Key topics → Resources (self‑guided & structured) → Practice → Next steps.**
 - Keep a **running style guide** and a **learning journal** (Notion/Docs) as you go.
